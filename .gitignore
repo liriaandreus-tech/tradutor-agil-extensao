@@ -1,0 +1,9 @@
+uploads/
+node_modules/
+.env
+.env.*
+*.pem
+*.crx
+__pycache__/
+.DS_Store
+Thumbs.db
