@@ -2,6 +2,8 @@
 
 Extensão Manifest V3 para traduzir um trecho do português para o inglês pelo menu do botão direito. O nome exibido pelo Chrome é **Tradução Ágil**.
 
+![Pop-up do Tradutor Ágil com o texto Bom dia traduzido para Good morning](docs/tradutor-agil-popup.png)
+
 ## Instalação e configuração
 
 1. Baixe o ZIP do repositório e extraia os arquivos, ou faça um clone com Git.
